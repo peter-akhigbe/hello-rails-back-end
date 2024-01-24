@@ -1,4 +1,4 @@
-# Hello Rails Backend 
+# Hello Rails Backend
 
 <a name="readme-top"></a>
 
@@ -89,9 +89,11 @@ Install this project with:
   cd Blog app
   bundle install
 ```
+
 ```sh
   gem install rspec
 ```
+
 ```sh
   gem install --no-document rubocop -v '>= 1.0, < 2.0'
 ```
@@ -103,12 +105,15 @@ To run the project, execute the following command:
 ```sh
   rails db:create
 ```
+
 ```sh
   rails db:migrate
 ```
+
 ```sh
   rake db:migrate
 ```
+
 ```sh
   rails server
 ```
@@ -120,9 +125,11 @@ To run tests, run the following command:
 ```sh
   rubocop --color
 ```
+
 ```sh
   rspec
 ```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -130,12 +137,11 @@ To run tests, run the following command:
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Author1**
- *Peter Akhigbe*
- 
+_Peter Akhigbe_
+
 - GitHub: [Peter Akhigbe](https://github.com/peter-akhigbe)
 - LinkedIn: [Peter Akhigbe](https://www.linkedin.com/in/peter-akhigbe)
 
-  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -168,7 +174,7 @@ If you like this project please show support by staring ⭐️.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-* I would like to give Microverse my sincerest gratitude for accommodating me in the Full-time Software Development program.
+- I would like to give Microverse my sincerest gratitude for accommodating me in the Full-time Software Development program.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
